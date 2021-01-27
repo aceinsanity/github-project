@@ -1,8 +1,4 @@
 #!/bin/bash
 # My first script
 
-echo "No one knows, it's a secret!" Kelly conflict sending again
-
-matt sending
-kelly sending
-matt sending2
+echo "No one knows, it's a secret!" Kelly conflict
